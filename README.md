@@ -1,8 +1,7 @@
 # SmartContracts
 
 <p align="center">
-    <a href="https://tryshape.vercel.app/" target="_blank">
-        <img src="./public/readme/TryShape-GitHub-icon-only.png" alt="logo" width="125"/>
+        <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/7743.png" alt="logo" width="125"/>
     </a>
     
 <p/>
