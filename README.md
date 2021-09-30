@@ -20,6 +20,8 @@
 
 ## 🔍 Cryptography
 - [What is a SHA-256](https://academy.bit2me.com/sha256-algoritmo-bitcoin/)
+- [HASH](https://academy.bit2me.com/que-es-hash/)
+- [NONCE?](https://academy.bit2me.com/que-es-nonce/)
 
 # 🏗️ 🔨 Built With
 - [SOLIDITY](https://docs.soliditylang.org/en/v0.8.9/#):  POO language for smart contracts
