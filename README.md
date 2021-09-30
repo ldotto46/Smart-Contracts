@@ -6,3 +6,7 @@
 
   
 ![download](https://user-images.githubusercontent.com/76250515/135490126-99c201c8-c565-4a14-b1c9-636bde637e43.png)
+
+
+# 🍔 Built With
+- [Next JS](https://docs.soliditylang.org/en/v0.8.9/#): POO language for smart contracts
