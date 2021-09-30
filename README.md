@@ -9,4 +9,4 @@
 
 
 # 🍔 Built With
-- [Next JS](https://docs.soliditylang.org/en/v0.8.9/#): POO language for smart contracts
+- [SOLIDITY](https://docs.soliditylang.org/en/v0.8.9/#): POO language for smart contracts
