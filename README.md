@@ -1,9 +1,7 @@
 # SmartContracts
 
 <p align="center">
-        ![ETH](https://user-images.githubusercontent.com/76250515/135493018-1f393013-9f78-4a68-98ab-6e90d44c5834.png) alt="logo" width="125"/>
-    </a>
-    
+![ETH](https://user-images.githubusercontent.com/76250515/135493180-a592823a-c859-454e-bddd-6ee15136425f.png)
 
 <p/>
 
