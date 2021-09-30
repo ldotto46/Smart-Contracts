@@ -9,8 +9,8 @@
 <p/>
 
 <p align="center">
-    <a href="https://www.pngwing.com/es/free-png-sunvn" target="_blank">
-        <img src="./public/readme/TryShape-GitHub-icon-only.png" alt="logo" width="125"/>
+    <a
+        <img src="https://www.pngwing.com/es/free-png-sunvn" alt="logo" width="125"/>
     </a>
     
 <p/>
