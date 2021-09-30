@@ -1,18 +1,11 @@
 # SmartContracts
 
-<p align="center">
-![ETH](https://user-images.githubusercontent.com/76250515/135493180-a592823a-c859-454e-bddd-6ee15136425f.png)
-  
-  
-  
 
-<p/>
-
+  
 <p align="center">
-    <a
-        <img src="https://www.pngwing.com/es/free-png-sunvn" alt="logo" width="125"/>
-    </a>
-    
+  
+  <img src="https://www.pngwing.com/es/free-png-sunvn" alt="solidity" width="50" height="50" /> 
+  
 <p/>
 
 
